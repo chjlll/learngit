@@ -7,7 +7,7 @@ TBQPreviewReport::TBQPreviewReport(const QString &fileName)
 }
 
 TBQPreviewReport::~TBQPreviewReport()
-{
+{qweqwe
 }
 
 void TBQPreviewReport::setReport(const TBQReportPages &reportPages)
